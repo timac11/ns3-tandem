@@ -1,0 +1,52 @@
+[
+    {
+        "e2e": 0.00735223,
+        "throughput": 1.1926,
+        "lostProbability": 0.0014312
+    },
+    {
+        "e2e": 0.0041305,
+        "throughput": 1.18947,
+        "lostProbability": 0.000662292
+    },
+    {
+        "e2e": 0.00557242,
+        "throughput": 1.19091,
+        "lostProbability": 0.000791782
+    },
+    {
+        "e2e": 0.00614677,
+        "throughput": 1.18894,
+        "lostProbability": 0.000983837
+    },
+    {
+        "e2e": 0.0050258,
+        "throughput": 1.1944,
+        "lostProbability": 0.000759491
+    },
+    {
+        "e2e": 0.00575606,
+        "throughput": 1.19409,
+        "lostProbability": 0.00109955
+    },
+    {
+        "e2e": 0.00567819,
+        "throughput": 1.18997,
+        "lostProbability": 0.00107326
+    },
+    {
+        "e2e": 0.00620632,
+        "throughput": 1.19259,
+        "lostProbability": 0.00131111
+    },
+    {
+        "e2e": 0.00674942,
+        "throughput": 1.19213,
+        "lostProbability": 0.00115142
+    },
+    {
+        "e2e": 0.00602915,
+        "throughput": 1.19053,
+        "lostProbability": 0.000942422
+    }
+]

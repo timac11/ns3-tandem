@@ -1,0 +1,302 @@
+lambda = 100
+Try connect
+0
+Connected!
+---------------------------------------------
+7
+Flow 1 (10.0.0.1 -> 10.0.0.4)
+Tx Packets: 249331
+Tx Bytes:   249331000
+Rx Packets: 249296
+Delay: 0.0037456
+Rx Bytes:   249296000
+Throughput: 0.797747 Mbps
+Lost Packets: 35
+Lost Probability: 0.000140395
+---------------------------------------------
+Flow 2 (10.0.0.3 -> 10.0.0.2)
+Tx Packets: 146
+Tx Bytes:   5732
+Rx Packets: 62
+Delay: 0.000357104
+Rx Bytes:   2870
+Throughput: 9.184e-06 Mbps
+Lost Packets: 84
+Lost Probability: 1.35484
+---------------------------------------------
+Flow 3 (10.0.0.3 -> 10.0.0.4)
+Tx Packets: 1799
+Tx Bytes:   83776
+Rx Packets: 1799
+Delay: 0.000413451
+Rx Bytes:   83776
+Throughput: 0.000268083 Mbps
+Lost Packets: 0
+Lost Probability: 0
+---------------------------------------------
+Flow 4 (10.0.0.2 -> 10.0.0.3)
+Tx Packets: 1242
+Tx Bytes:   59320
+Rx Packets: 1231
+Delay: 0.000546991
+Rx Bytes:   58936
+Throughput: 0.000188595 Mbps
+Lost Packets: 11
+Lost Probability: 0.00893582
+---------------------------------------------
+Flow 5 (10.0.0.2 -> 10.0.0.1)
+Tx Packets: 1204
+Tx Bytes:   57720
+Rx Packets: 1204
+Delay: 0.000138913
+Rx Bytes:   57720
+Throughput: 0.000184704 Mbps
+Lost Packets: 0
+Lost Probability: 0
+---------------------------------------------
+Flow 6 (10.0.0.1 -> 10.0.0.2)
+Tx Packets: 95
+Tx Bytes:   4560
+Rx Packets: 95
+Delay: 0.000258092
+Rx Bytes:   4560
+Throughput: 1.4592e-05 Mbps
+Lost Packets: 0
+Lost Probability: 0
+---------------------------------------------
+Flow 7 (10.0.0.4 -> 10.0.0.3)
+Tx Packets: 3
+Tx Bytes:   144
+Rx Packets: 3
+Delay: 9.1133e-05
+Rx Bytes:   144
+Throughput: 4.608e-07 Mbps
+Lost Packets: 0
+Lost Probability: 0
+---------------------------------------------
+elapsed time: 1239s
+---------------------------------------------
+lambda = 50
+Try connect
+0
+Connected!
+---------------------------------------------
+6
+Flow 1 (10.0.0.1 -> 10.0.0.4)
+Tx Packets: 125035
+Tx Bytes:   125035000
+Rx Packets: 125022
+Delay: 0.000893464
+Rx Bytes:   125022000
+Throughput: 0.40007 Mbps
+Lost Packets: 13
+Lost Probability: 0.000103982
+---------------------------------------------
+Flow 2 (10.0.0.3 -> 10.0.0.2)
+Tx Packets: 18
+Tx Bytes:   702
+Rx Packets: 8
+Delay: 0.000832414
+Rx Bytes:   384
+Throughput: 1.2288e-06 Mbps
+Lost Packets: 10
+Lost Probability: 1.25
+---------------------------------------------
+Flow 3 (10.0.0.3 -> 10.0.0.4)
+Tx Packets: 194
+Tx Bytes:   9240
+Rx Packets: 194
+Delay: 0.000321344
+Rx Bytes:   9240
+Throughput: 2.9568e-05 Mbps
+Lost Packets: 0
+Lost Probability: 0
+---------------------------------------------
+Flow 4 (10.0.0.2 -> 10.0.0.3)
+Tx Packets: 168
+Tx Bytes:   7994
+Rx Packets: 166
+Delay: 0.000495433
+Rx Bytes:   7934
+Throughput: 2.53888e-05 Mbps
+Lost Packets: 2
+Lost Probability: 0.0120482
+---------------------------------------------
+Flow 5 (10.0.0.2 -> 10.0.0.1)
+Tx Packets: 170
+Tx Bytes:   8160
+Rx Packets: 170
+Delay: 0.000167082
+Rx Bytes:   8160
+Throughput: 2.6112e-05 Mbps
+Lost Packets: 0
+Lost Probability: 0
+---------------------------------------------
+Flow 6 (10.0.0.1 -> 10.0.0.2)
+Tx Packets: 3
+Tx Bytes:   144
+Rx Packets: 3
+Delay: 9.11e-05
+Rx Bytes:   144
+Throughput: 4.608e-07 Mbps
+Lost Packets: 0
+Lost Probability: 0
+---------------------------------------------
+elapsed time: 625.641s
+---------------------------------------------
+lambda = 200
+Try connect
+0
+Connected!
+---------------------------------------------
+7
+Flow 1 (10.0.0.1 -> 10.0.0.4)
+Tx Packets: 499059
+Tx Bytes:   499059000
+Rx Packets: 428937
+Delay: 0.0248319
+Rx Bytes:   428937000
+Throughput: 1.3726 Mbps
+Lost Packets: 70058
+Lost Probability: 0.163329
+---------------------------------------------
+Flow 2 (10.0.0.3 -> 10.0.0.2)
+Tx Packets: 2052
+Tx Bytes:   91200
+Rx Packets: 1334
+Delay: 0.00458124
+Rx Bytes:   62038
+Throughput: 0.000198522 Mbps
+Lost Packets: 717
+Lost Probability: 0.537481
+---------------------------------------------
+Flow 3 (10.0.0.3 -> 10.0.0.4)
+Tx Packets: 24725
+Tx Bytes:   1086128
+Rx Packets: 24713
+Delay: 0.00121441
+Rx Bytes:   1085552
+Throughput: 0.00347377 Mbps
+Lost Packets: 11
+Lost Probability: 0.00044511
+---------------------------------------------
+Flow 4 (10.0.0.2 -> 10.0.0.3)
+Tx Packets: 9586
+Tx Bytes:   447340
+Rx Packets: 9279
+Delay: 0.00111377
+Rx Bytes:   435314
+Throughput: 0.001393 Mbps
+Lost Packets: 305
+Lost Probability: 0.0328699
+---------------------------------------------
+Flow 5 (10.0.0.2 -> 10.0.0.1)
+Tx Packets: 9973
+Tx Bytes:   468776
+Rx Packets: 9968
+Delay: 0.00074019
+Rx Bytes:   468552
+Throughput: 0.00149937 Mbps
+Lost Packets: 5
+Lost Probability: 0.000501605
+---------------------------------------------
+Flow 6 (10.0.0.1 -> 10.0.0.2)
+Tx Packets: 1534
+Tx Bytes:   73632
+Rx Packets: 1533
+Delay: 0.000140047
+Rx Bytes:   73584
+Throughput: 0.000235469 Mbps
+Lost Packets: 1
+Lost Probability: 0.000652316
+---------------------------------------------
+Flow 7 (10.0.0.4 -> 10.0.0.3)
+Tx Packets: 365
+Tx Bytes:   17520
+Rx Packets: 365
+Delay: 0.000894991
+Rx Bytes:   17520
+Throughput: 5.6064e-05 Mbps
+Lost Packets: 0
+Lost Probability: 0
+---------------------------------------------
+elapsed time: 1980.15s
+---------------------------------------------
+lambda = 500
+Try connect
+0
+Connected!
+---------------------------------------------
+7
+Flow 1 (10.0.0.1 -> 10.0.0.4)
+Tx Packets: 1248873
+Tx Bytes:   1248873000
+Rx Packets: 254287
+Delay: 0.0582562
+Rx Bytes:   254287000
+Throughput: 0.813718 Mbps
+Lost Packets: 994586
+Lost Probability: 3.91127
+---------------------------------------------
+Flow 2 (10.0.0.3 -> 10.0.0.2)
+Tx Packets: 9951
+Tx Bytes:   468486
+Rx Packets: 8058
+Delay: 0.0132494
+Rx Bytes:   379858
+Throughput: 0.00121555 Mbps
+Lost Packets: 1872
+Lost Probability: 0.232316
+---------------------------------------------
+Flow 3 (10.0.0.3 -> 10.0.0.4)
+Tx Packets: 90740
+Tx Bytes:   3788264
+Rx Packets: 90687
+Delay: 0.00376371
+Rx Bytes:   3785744
+Throughput: 0.0121144 Mbps
+Lost Packets: 53
+Lost Probability: 0.000584428
+---------------------------------------------
+Flow 4 (10.0.0.2 -> 10.0.0.3)
+Tx Packets: 15129
+Tx Bytes:   666006
+Rx Packets: 14462
+Delay: 0.00306469
+Rx Bytes:   639544
+Throughput: 0.00204654 Mbps
+Lost Packets: 667
+Lost Probability: 0.0461209
+---------------------------------------------
+Flow 5 (10.0.0.2 -> 10.0.0.1)
+Tx Packets: 37296
+Tx Bytes:   1633424
+Rx Packets: 37019
+Delay: 0.00225728
+Rx Bytes:   1620128
+Throughput: 0.00518441 Mbps
+Lost Packets: 277
+Lost Probability: 0.00748264
+---------------------------------------------
+Flow 6 (10.0.0.1 -> 10.0.0.2)
+Tx Packets: 2023
+Tx Bytes:   97104
+Rx Packets: 2023
+Delay: 0.00248815
+Rx Bytes:   97104
+Throughput: 0.000310733 Mbps
+Lost Packets: 0
+Lost Probability: 0
+---------------------------------------------
+Flow 7 (10.0.0.4 -> 10.0.0.3)
+Tx Packets: 2614
+Tx Bytes:   125472
+Rx Packets: 2614
+Delay: 0.000957235
+Rx Bytes:   125472
+Throughput: 0.00040151 Mbps
+Lost Packets: 0
+Lost Probability: 0
+---------------------------------------------
+elapsed time: 3014.84s
+---------------------------------------------

@@ -1,0 +1,122 @@
+[
+  {
+    "sta": [
+      {
+        "coordinate": 29,
+        "P_tr": 20,
+        "G_tr": 5,
+        "P_recv": -69,
+        "Precv_coverage": -67,
+        "Grecv_coverage": 5
+      },
+      {
+        "coordinate": 40,
+        "P_tr": 19,
+        "G_tr": 5,
+        "P_recv": -67,
+        "Precv_coverage": -67,
+        "Grecv_coverage": 5
+      },
+      {
+        "coordinate": 95,
+        "P_tr": 20,
+        "G_tr": 5,
+        "P_recv": -69,
+        "Precv_coverage": -67,
+        "Grecv_coverage": 5
+      },
+      {
+        "coordinate": 273,
+        "P_tr": 19,
+        "G_tr": 5,
+        "P_recv": -69,
+        "Precv_coverage": -67,
+        "Grecv_coverage": 6
+      }
+    ],
+    "frequency": 2437,
+    "Grecv_gateway": 5,
+    "Precv_gateway": -69,
+    "gateway_coordinate": 300
+  },
+  {
+    "sta": [
+      {
+        "coordinate": 29,
+        "P_tr": 19,
+        "G_tr": 5,
+        "P_recv": -69,
+        "Precv_coverage": -67,
+        "Grecv_coverage": 6
+      },
+      {
+        "coordinate": 95,
+        "P_tr": 19,
+        "G_tr": 5,
+        "P_recv": -67,
+        "Precv_coverage": -67,
+        "Grecv_coverage": 5
+      },
+      {
+        "coordinate": 139,
+        "P_tr": 19,
+        "G_tr": 5,
+        "P_recv": -67,
+        "Precv_coverage": -67,
+        "Grecv_coverage": 5
+      },
+      {
+        "coordinate": 273,
+        "P_tr": 19,
+        "G_tr": 5,
+        "P_recv": -67,
+        "Precv_coverage": -67,
+        "Grecv_coverage": 5
+      }
+    ],
+    "frequency": 2437,
+    "Grecv_gateway": 5,
+    "Precv_gateway": -69,
+    "gateway_coordinate": 300
+  },
+  {
+    "sta": [
+      {
+        "coordinate": 29,
+        "P_tr": 19,
+        "G_tr": 5,
+        "P_recv": -69,
+        "Precv_coverage": -67,
+        "Grecv_coverage": 6
+      },
+      {
+        "coordinate": 40,
+        "P_tr": 19,
+        "G_tr": 5,
+        "P_recv": -67,
+        "Precv_coverage": -67,
+        "Grecv_coverage": 5
+      },
+      {
+        "coordinate": 181,
+        "P_tr": 20,
+        "G_tr": 5,
+        "P_recv": -69,
+        "Precv_coverage": -67,
+        "Grecv_coverage": 5
+      },
+      {
+        "coordinate": 273,
+        "P_tr": 19,
+        "G_tr": 5,
+        "P_recv": -67,
+        "Precv_coverage": -67,
+        "Grecv_coverage": 5
+      }
+    ],
+    "frequency": 2437,
+    "Grecv_gateway": 5,
+    "Precv_gateway": -69,
+    "gateway_coordinate": 300
+  }
+]
